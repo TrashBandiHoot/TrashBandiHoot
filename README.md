@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Dominic, I am a recent graduate from Coding Temple and I am looking for a career in the tech industry.
+
+I am currently working on:
+- Flask portfolio
+- Sponge bob meme generator
+- Discord bot(unnamed)
+
+
 <!--
 **TrashBandiHoot/TrashBandiHoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
