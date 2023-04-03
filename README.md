@@ -14,6 +14,9 @@ My name is Dominic, I am a recent graduate from Coding Temple and I am looking f
 - Vue
 - Docker
 
+
+#### Contact me via [LinkedIn](https://www.linkedin.com/in/ddavenport13/)
+
 <!--
 **TrashBandiHoot/TrashBandiHoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
